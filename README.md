@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @KaterKarp
+Курс "Тестировщик с нуля" 09.12.2023
 
-
-<!---
-KaterKarp/KaterKarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
